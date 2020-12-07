@@ -1,0 +1,10 @@
+C:\Users\wesle\source\repos\Servidores\Servidores\bin\Debug\Servidores.exe.config
+C:\Users\wesle\source\repos\Servidores\Servidores\bin\Debug\Servidores.exe
+C:\Users\wesle\source\repos\Servidores\Servidores\bin\Debug\Servidores.pdb
+C:\Users\wesle\source\repos\Servidores\Servidores\obj\Debug\Servidores.csprojAssemblyReference.cache
+C:\Users\wesle\source\repos\Servidores\Servidores\obj\Debug\Servidores.Properties.Resources.resources
+C:\Users\wesle\source\repos\Servidores\Servidores\obj\Debug\Servidores.csproj.GenerateResource.cache
+C:\Users\wesle\source\repos\Servidores\Servidores\obj\Debug\Servidores.csproj.CoreCompileInputs.cache
+C:\Users\wesle\source\repos\Servidores\Servidores\obj\Debug\Servidores.exe
+C:\Users\wesle\source\repos\Servidores\Servidores\obj\Debug\Servidores.pdb
+C:\Users\wesle\source\repos\Servidores\Servidores\obj\Debug\Servidores.BrServidor.resources
