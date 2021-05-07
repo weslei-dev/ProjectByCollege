@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1591122187 source:c:\users\wesle\onedrive\documentos\algoritmos e progrmação\ano bissexto\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
